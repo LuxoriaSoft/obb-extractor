@@ -1,1 +1,1 @@
-# Automatic Bounding Box Discovery
+# Automatic Bounding Box Extractor
